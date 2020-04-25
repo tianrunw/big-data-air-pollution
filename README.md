@@ -10,6 +10,10 @@ In this project, we analyze the relationship between the severity of COVID-19 ou
 - Tianrun Wang (tw969@nyu.edu)
 
 
+## Reproducing the Analysis
+We use Jupyter Notebooks for data analysis in this project, found in the main `project` directory. All data files are located in `project/data` folder. To run the notebooks, first create a virtual environment and install all required dependencies using `pip install -r requirements.txt`
+
+
 ## Major Points of Analysis
 - How did traffic change in response to the number of confirmed COVID cases?
     - Did traffic volumes drop before a city went into lockdown officially?
@@ -29,6 +33,8 @@ In this project, we analyze the relationship between the severity of COVID-19 ou
 
 
 ## Data Sources
+See `project/data/README.md` for description of specific data files.
+
 - U.S. Environmental Protection Agency (EPA)
     - https://www.epa.gov/outdoor-air-quality-data
     - https://aqs.epa.gov/aqsweb/documents/data_api.html
@@ -44,5 +50,3 @@ In this project, we analyze the relationship between the severity of COVID-19 ou
 
 - Bureau of Transportation Statistics (Department of Transportation)
     - https://www.transtats.bts.gov/ONTIME/Departures.aspx
-
-
