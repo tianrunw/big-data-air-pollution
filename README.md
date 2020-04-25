@@ -36,8 +36,7 @@ We use Jupyter Notebooks for data analysis in this project, found in the main `p
 See `project/data/README.md` for description of specific data files.
 
 - U.S. Environmental Protection Agency (EPA)
-    - https://www.epa.gov/outdoor-air-quality-data
-    - https://aqs.epa.gov/aqsweb/documents/data_api.html
+    - [Air Quality Index Daily Values Report](https://www.epa.gov/outdoor-air-quality-data/air-quality-index-daily-values-report)
 
 - Air Now
     - https://www.airnow.gov/
@@ -49,4 +48,4 @@ See `project/data/README.md` for description of specific data files.
     - https://github.com/CSSEGISandData/COVID-19
 
 - Bureau of Transportation Statistics (Department of Transportation)
-    - https://www.transtats.bts.gov/ONTIME/Departures.aspx
+    - [Airline On-Time Statistics (Departures)](https://www.transtats.bts.gov/ONTIME/Departures.aspx)
