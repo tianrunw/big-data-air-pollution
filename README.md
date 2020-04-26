@@ -11,7 +11,7 @@ In this project, we analyze the relationship between the severity of COVID-19 ou
 
 
 ## Reproducing the Analysis
-We use Jupyter Notebooks for data analysis in this project, found in the main `project` directory. All data files are located in `project/data` folder. To run the notebooks, first create a virtual environment `env` and install all required dependencies using `pip install -r requirements.txt`, then `source env/bin/activate`
+We use Jupyter Notebooks for data analysis in this project, found in the main `project` directory. All data files are located in `project/data` folder. To run the notebooks in your local environment, first create a virtual environment `env` and install all required dependencies using `pip install -r requirements.txt`, then `source env/bin/activate`
 
 
 ## Major Points of Analysis
