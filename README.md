@@ -35,14 +35,17 @@ We use Jupyter Notebooks for data analysis in this project, found in the main `p
 ## Data Sources
 See `project/data/README.md` for description of specific data files.
 
+- Johns Hopkins CSSE COVID-19 Data Repository
+    - [csse_covid_19_time_series](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+
 - U.S. Environmental Protection Agency (EPA)
     - [Air Quality Index Daily Values Report](https://www.epa.gov/outdoor-air-quality-data/air-quality-index-daily-values-report)
 
 - Open NY (New York State)
     - [Hourly Traffic on MTA Bridges and Tunnels](https://data.ny.gov/Transportation/Hourly-Traffic-on-Metropolitan-Transportation-Auth/qzve-kjga)
 
-- Johns Hopkins CSSE COVID-19 Data Repository
-    - [csse_covid_19_time_series](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
-
 - Bureau of Transportation Statistics (Department of Transportation)
     - [Airline On-Time Statistics (Departures)](https://www.transtats.bts.gov/ONTIME/Departures.aspx)
+
+- Chicago Mercantile Exchange (CME)
+    - [Daily Settlement of WTI Crude Oil Futures](https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude.html)
