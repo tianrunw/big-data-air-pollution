@@ -38,14 +38,11 @@ See `project/data/README.md` for description of specific data files.
 - U.S. Environmental Protection Agency (EPA)
     - [Air Quality Index Daily Values Report](https://www.epa.gov/outdoor-air-quality-data/air-quality-index-daily-values-report)
 
-- Air Now
-    - https://www.airnow.gov/
+- Open NY (New York State)
+    - [Hourly Traffic on MTA Bridges and Tunnels](https://data.ny.gov/Transportation/Hourly-Traffic-on-Metropolitan-Transportation-Auth/qzve-kjga)
 
-- Hourly Traffic MTA Bridges and Tunnels (New York State)
-    - https://data.ny.gov/Transportation/Hourly-Traffic-on-Metropolitan-Transportation-Auth/qzve-kjga
-
-- Johns Hopkins Covid-19 Data
-    - https://github.com/CSSEGISandData/COVID-19
+- Johns Hopkins CSSE COVID-19 Data Repository
+    - [csse_covid_19_time_series](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 
 - Bureau of Transportation Statistics (Department of Transportation)
     - [Airline On-Time Statistics (Departures)](https://www.transtats.bts.gov/ONTIME/Departures.aspx)
