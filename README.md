@@ -37,7 +37,7 @@ The second is the traditional local environment, before running the notebook on 
 
 
 ## Data Sources
-See `project/data/README.md` for description of specific data files.
+See `datasets-used.csv` for detailed description of data sources, and `project/data/README.md` for description of specific data files.
 
 - Johns Hopkins CSSE COVID-19 Data Repository
     - [csse_covid_19_time_series](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
