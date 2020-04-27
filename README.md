@@ -11,7 +11,7 @@ In this project, we analyze the relationship between the severity of COVID-19 ou
 
 
 ## Reproducing the Analysis
-We use Jupyter Notebooks for data analysis in this project, found in the main `project` directory. All data files are located in `project/data` folder. To run the notebooks in your local environment, first create a virtual environment `env` and install all required dependencies using `pip install -r requirements.txt`, then `source env/bin/activate`
+We use Jupyter Notebooks for data analysis in this project, found in the main `project` directory. All data files are located in `project/data` folder. The dependencies are listed in `requirements.txt`.
 
 
 ## Major Points of Analysis
@@ -37,6 +37,9 @@ See `project/data/README.md` for description of specific data files.
 
 - Johns Hopkins CSSE COVID-19 Data Repository
     - [csse_covid_19_time_series](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+
+- New York City COVID-19 Data Repository
+    - https://github.com/nychealth/coronavirus-data
 
 - U.S. Environmental Protection Agency (EPA)
     - [Air Quality Index Daily Values Report](https://www.epa.gov/outdoor-air-quality-data/air-quality-index-daily-values-report)
