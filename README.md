@@ -13,9 +13,9 @@ In this project, we analyze the relationship between the severity of COVID-19 ou
 ## Reproducing the Notebook with ***Binder***
 We use Jupyter Notebooks for data analysis in this project, found in the main `project` directory. All data files are located in `project/data` folder.
 
-We offer two solutions for reproducibility, the first is through [Binder](https://mybinder.org/). Binder automatically copies and runs this repo on a cloud hosted jupyter notebook environment, installing the dependencies listed in `requirements.txt` beforehand, which is pretty cool. To run this repo on Binder interactively, click [here](https://hub.gke.mybinder.org/user/tianrunw-big-data-air-pollution-mo5slu43/tree).
+We offer two solutions for reproducibility, the first is through [Binder](https://mybinder.org/). Binder automatically copies and runs this repo on a cloud hosted jupyter notebook environment, installing the dependencies listed in `requirements.txt` beforehand. To run this repo on Binder interactively, click [here](https://hub.gke.mybinder.org/user/tianrunw-big-data-air-pollution-mo5slu43/tree).
 
-The second is the traditional local environment, before running the notebook on your local machine, please install the dependencies listed in `requirements.txt`. Furthermore, we are working on building a ReproZip package for this repo as well, which is coming very soon.
+The second is the traditional local environment, before running the notebook on your local machine, please install the dependencies listed in `requirements.txt`. Furthermore, we are working on building a ReproZip package for this repo as well, which is coming soon.
 
 
 ## Major Points of Analysis
