@@ -1,6 +1,4 @@
 # COVID-19 and Urban Air Pollution
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tianrunw/big-data-air-pollution/master)
-
 The public health crisis caused by the Novel Coronavirus (COVID-19) prompted governments worldwide to restrict human movement in a bid to limit the spread of the respiratory disease. Since the outbreak in March 2020 in the United States, many states and municipalities have issued stay-at-home orders, and economic activity has been largely reduced to essential services only. The unprecedented restriction on economic activity has led to a significant drop in traffic volume, factory production, and other sources widely attributted to urban air pollution, leading to a substantial improvement in air quality in major U.S. cities.
 
 In this project, we analyze the relationship between the severity of COVID-19 outbreak in a city and the improvement of air quality. We will primarily focus our analysis on the experience of New York City, due to the quality and availability of its high-frequency data on ground traffic, air pollution and COVID-19 case count.
@@ -12,10 +10,12 @@ In this project, we analyze the relationship between the severity of COVID-19 ou
 - Tianrun Wang (tw969@nyu.edu)
 
 
-## Reproducing the Notebook with ***Binder***
+## Reproducing the Notebook with Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tianrunw/big-data-air-pollution/master)
+
 We use Jupyter Notebooks for data analysis in this project, found in the main `project` directory. All data files are located in `project/data` folder.
 
-We offer two solutions for reproducibility, the first is through [Binder](https://mybinder.org/). Binder automatically copies and runs this repo on a cloud-hosted Jupyter Notebook environment, installing the dependencies listed in `requirements.txt` beforehand. To run this repo on Binder interactively, click [here](https://hub.gke.mybinder.org/user/tianrunw-big-data-air-pollution-rzrknc61/tree).
+We offer two solutions for reproducibility, the first is through [Binder](https://mybinder.org/). Binder automatically copies and runs this repo on a cloud-hosted Jupyter Notebook environment, installing the dependencies listed in `requirements.txt` beforehand. To run this repo on Binder interactively, click on the Binder badge above.
 
 The second is the traditional local environment, before running the notebook on your local machine, please install the dependencies listed in `requirements.txt`. Furthermore, we are working on building a ReproZip package for this repo as well, which is coming soon.
 
